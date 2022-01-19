@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-Apple
-Mango
-Banana
-=======
-Harry porter
-finding nemo
-Shaun the sheep
->>>>>>> movies
+
